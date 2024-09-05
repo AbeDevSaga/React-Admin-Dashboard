@@ -1,4 +1,3 @@
-
 /**
  * The base border styles for the Material Dashboard 2 React.
  * You can add new border width, border color or border radius using this file.

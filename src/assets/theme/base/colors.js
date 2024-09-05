@@ -1,4 +1,3 @@
-
 /**
  * The base colors for the Material Dashboard 2 React.
  * You can add new color using this file.
