@@ -14,15 +14,13 @@ import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import PageLayout from "examples/LayoutContainers/PageLayout";
 
 // Authentication pages components
-import Footer from "layouts/authentication/components/Footer";
-
 function BasicLayout({ image, children }) {
   return (
     <PageLayout>
       <DefaultNavbar
         action={{
           type: "external",
-          route: "https://creative-tim.com/product/material-dashboard-react",
+          route: "https://creative-tim.com/product/admin-dashboard-react",
           label: "free download",
           color: "dark",
         }}
@@ -50,7 +48,6 @@ function BasicLayout({ image, children }) {
           </Grid>
         </Grid>
       </MDBox>
-      <Footer light />
     </PageLayout>
   );
 }

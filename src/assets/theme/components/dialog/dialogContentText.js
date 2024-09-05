@@ -1,6 +1,6 @@
 /**/
 
-// Material Dashboard 2 React base styles
+// Admin Dashboard React base styles
 import typography from "assets/theme/base/typography";
 import colors from "assets/theme/base/colors";
 

@@ -1,7 +1,7 @@
 // @mui material components
 import { createTheme } from "@mui/material/styles";
 
-// Material Dashboard 2 React base styles
+// Admin Dashboard React base styles
 import colors from "assets/theme/base/colors";
 import breakpoints from "assets/theme/base/breakpoints";
 import typography from "assets/theme/base/typography";

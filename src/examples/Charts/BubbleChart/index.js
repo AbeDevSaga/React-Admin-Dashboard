@@ -3,8 +3,8 @@
 * Material Dashboard 2  React - v2.2.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/material-dashboard-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
+* Product Page: https://www.creative-tim.com/product/admin-dashboard-react
+* Copyright 2023admin-dashboard-react(https://www.creative-tim.com)
 
 Coded by www.creative-tim.com
 
@@ -33,7 +33,7 @@ import MDTypography from "components/MDTypography";
 // BubbleChart configurations
 import configs from "examples/Charts/BubbleChart/configs";
 
-// Material Dashboard 2 React base styles
+// Admin Dashboard React base styles
 import colors from "assets/theme/base/colors";
 
 ChartJS.register(LinearScale, PointElement, Tooltip, Legend);

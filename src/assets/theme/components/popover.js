@@ -3,7 +3,7 @@
 // Material Dashboard 2 React helper functions
 import pxToRem from "assets/theme/functions/pxToRem";
 
-// Material Dashboard 2 React base styles
+// Admin Dashboard React base styles
 import colors from "assets/theme/base/colors";
 import boxShadows from "assets/theme/base/boxShadows";
 import borders from "assets/theme/base/borders";

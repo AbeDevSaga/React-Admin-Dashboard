@@ -15,7 +15,6 @@ import DefaultNavbar from "examples/Navbars/DefaultNavbar";
 import PageLayout from "examples/LayoutContainers/PageLayout";
 
 // Authentication layout components
-import Footer from "layouts/authentication/components/Footer";
 
 function CoverLayout({ coverHeight, image, children }) {
   return (
@@ -23,7 +22,7 @@ function CoverLayout({ coverHeight, image, children }) {
       <DefaultNavbar
         action={{
           type: "external",
-          route: "https://creative-tim.com/product/material-dashboard-react",
+          route: "https://creative-tim.com/product/admin-dashboard-react",
           label: "free download",
         }}
         transparent
@@ -56,7 +55,6 @@ function CoverLayout({ coverHeight, image, children }) {
           </Grid>
         </Grid>
       </MDBox>
-      <Footer />
     </PageLayout>
   );
 }

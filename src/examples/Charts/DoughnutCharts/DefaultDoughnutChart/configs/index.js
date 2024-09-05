@@ -3,8 +3,8 @@
 * Material Dashboard 2  React - v2.2.0
 =========================================================
 
-* Product Page: https://www.creative-tim.com/product/material-dashboard-react
-* Copyright 2023 Creative Tim (https://www.creative-tim.com)
+* Product Page: https://www.creative-tim.com/product/admin-dashboard-react
+* Copyright 2023(https://www.creative-tim.com)
 
 Coded by www.creative-tim.com
 
@@ -14,7 +14,7 @@ Coded by www.creative-tim.com
 */
 
 /* eslint-disable no-dupe-keys */
-// Material Dashboard 2 React base styles
+// Admin Dashboard React base styles
 import colors from "assets/theme/base/colors";
 
 const { gradients, dark } = colors;

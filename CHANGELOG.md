@@ -39,7 +39,6 @@
   - PolarChart
   - RadarChart
 - Configurator
-- Footer
 - Items
   - NotificationItem
 - LayoutContainers

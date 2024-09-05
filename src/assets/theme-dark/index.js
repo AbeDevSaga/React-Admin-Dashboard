@@ -4,7 +4,7 @@
 import { createTheme } from "@mui/material/styles";
 // import Fade from "@mui/material/Fade";
 
-// Material Dashboard 2 React base styles
+// Admin Dashboard React base styles
 import colors from "assets/theme-dark/base/colors";
 import breakpoints from "assets/theme-dark/base/breakpoints";
 import typography from "assets/theme-dark/base/typography";

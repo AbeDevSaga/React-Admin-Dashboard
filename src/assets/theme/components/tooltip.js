@@ -3,7 +3,7 @@
 // @mui material components
 import Fade from "@mui/material/Fade";
 
-// Material Dashboard 2 React base styles
+// Admin Dashboard React base styles
 import colors from "assets/theme/base/colors";
 import typography from "assets/theme/base/typography";
 import borders from "assets/theme/base/borders";
