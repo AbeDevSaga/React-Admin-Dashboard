@@ -76,7 +76,7 @@ function Tables() {
                     <MenuItem onClick={() => handleClose("Category 1")}>1x/year</MenuItem>
                     <MenuItem onClick={() => handleClose("Category 1")}>2x/year</MenuItem>
                     <MenuItem onClick={() => handleClose("Category 1")}>3x/year</MenuItem>
-                    <MenuItem onClick={() => handleClose("Category 1")}>5x/year</MenuItem>
+                    <MenuItem onClick={() => handleClose("Category 1")}>4x/year</MenuItem>
                     <MenuItem onClick={() => handleClose("Category 2")}>Monthly</MenuItem>
                   </Menu>
                 </div>
