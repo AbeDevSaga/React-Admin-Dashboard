@@ -78,6 +78,9 @@ function Tables() {
                     <MenuItem onClick={() => handleClose("3x/year")}>3x/year</MenuItem>
                     <MenuItem onClick={() => handleClose("4x/year")}>4x/year</MenuItem>
                     <MenuItem onClick={() => handleClose("Monthly")}>Monthly</MenuItem>
+                    <MenuItem onClick={() => handleClose("Monthly")}>Paid</MenuItem>
+                    <MenuItem onClick={() => handleClose("Monthly")}>Not Paid</MenuItem>
+                    <MenuItem onClick={() => handleClose("Monthly")}>Expired</MenuItem>
                   </Menu>
                 </div>
               </MDBox>

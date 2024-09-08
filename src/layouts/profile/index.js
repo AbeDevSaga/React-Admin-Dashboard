@@ -59,19 +59,24 @@ function Overview() {
                   email: "alecthompson@mail.com",
                   location: "USA",
                 }}
+                /* use links to direct to the pages u want 
+                  facebook: 
+                  twitter: https://twitter.com/creativetim
+                  instagram: https://www.instagram.com/creativetimofficial/
+                */
                 social={[
                   {
-                    link: "https://www.facebook.com/CreativeTim/",
+                    link: "",
                     icon: <FacebookIcon />,
                     color: "facebook",
                   },
                   {
-                    link: "https://twitter.com/creativetim",
+                    link: "",
                     icon: <TwitterIcon />,
                     color: "twitter",
                   },
                   {
-                    link: "https://www.instagram.com/creativetimofficial/",
+                    link: "",
                     icon: <InstagramIcon />,
                     color: "instagram",
                   },
@@ -86,7 +91,7 @@ function Overview() {
             </Grid>
           </Grid>
         </MDBox>
-        <MDBox pt={2} px={2} lineHeight={1.25}>
+        {/* <MDBox pt={2} px={2} lineHeight={1.25}>
           <MDTypography variant="h6" fontWeight="medium">
             Projects
           </MDTypography>
@@ -95,8 +100,8 @@ function Overview() {
               Architects design houses
             </MDTypography>
           </MDBox>
-        </MDBox>
-        <MDBox p={2}>
+        </MDBox> */}
+        {/* <MDBox p={2}>
           <Grid container spacing={6}>
             <Grid item xs={12} md={6} xl={3}>
               <DefaultProjectCard
@@ -179,7 +184,7 @@ function Overview() {
               />
             </Grid>
           </Grid>
-        </MDBox>
+        </MDBox> */}
       </Header>
     </DashboardLayout>
   );
