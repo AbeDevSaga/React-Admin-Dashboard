@@ -21,23 +21,22 @@ function BillingInformation() {
       <MDBox pt={1} pb={2} px={2}>
         <MDBox component="ul" display="flex" flexDirection="column" p={0} m={0}>
           <Bill
-            name="oliver liam"
-            company="viking burrito"
-            email="oliver@burrito.com"
-            vat="FRB1235476"
+            name="CBE"
+            company="Advent Association"
+            email="1000435678234"
+            vat="12/3/2000"
           />
           <Bill
-            name="lucas harper"
-            company="stone tech zone"
-            email="lucas@stone-tech.com"
-            vat="FRB1235476"
+            name="CBO"
+            company="Advent Association"
+            email="000435678234"
+            vat="12/3/2010"
           />
           <Bill
-            name="ethan james"
-            company="fiber notion"
-            email="ethan@fiber.com"
-            vat="FRB1235476"
-            noGutter
+            name="Telebirr"
+            company="Advent Association"
+            email="0978345261"
+            vat="1/8/1998"
           />
         </MDBox>
       </MDBox>

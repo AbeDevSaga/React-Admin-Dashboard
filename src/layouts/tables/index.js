@@ -73,11 +73,11 @@ function Tables() {
                     <MenuItem onClick={() => handleClose("All Categories")}>
                       All Categories
                     </MenuItem>
-                    <MenuItem onClick={() => handleClose("Category 1")}>1x/year</MenuItem>
-                    <MenuItem onClick={() => handleClose("Category 1")}>2x/year</MenuItem>
-                    <MenuItem onClick={() => handleClose("Category 1")}>3x/year</MenuItem>
-                    <MenuItem onClick={() => handleClose("Category 1")}>4x/year</MenuItem>
-                    <MenuItem onClick={() => handleClose("Category 2")}>Monthly</MenuItem>
+                    <MenuItem onClick={() => handleClose("1x/year")}>1x/year</MenuItem>
+                    <MenuItem onClick={() => handleClose("2x/year")}>2x/year</MenuItem>
+                    <MenuItem onClick={() => handleClose("3x/year")}>3x/year</MenuItem>
+                    <MenuItem onClick={() => handleClose("4x/year")}>4x/year</MenuItem>
+                    <MenuItem onClick={() => handleClose("Monthly")}>Monthly</MenuItem>
                   </Menu>
                 </div>
               </MDBox>
